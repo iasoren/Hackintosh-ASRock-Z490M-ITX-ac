@@ -16,6 +16,7 @@ What Works:
 - WiFi and Bluetooth (BCM94352Z)
 - DRM
 - Fancy(ish) boot picker (verbose mode is off)
+- HWMonitor (CPU and HDD/SSD, GPU is WIP)
 
 What doesn't yet
 - Ethernet (2.5Gb)
