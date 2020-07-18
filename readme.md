@@ -2,15 +2,16 @@ ASRock Z490M-ITX/ac
 ===================
 
 What Works:
-- Metal
+- Metal (sorta)
 - Apple Store
 - Ethernet (intel 1219v)
 - Sleep/Wake
 - Sound - Headphones (front), Internal Speaker (rear), Microphone (rear)  (via FakePCIID patch kext).
 - CPU/GPU identified correctly in System Properties
-- WiFi and Bluetooth (BCM94352Z) 
+- WiFi and Bluetooth (BCM94352Z)
+- DRM
+- Fancy(ish) boot picker
 
 What doesn't yet
 - Ethernet (2.5Gb)
-- DRM
 - Handoff/Continuity
