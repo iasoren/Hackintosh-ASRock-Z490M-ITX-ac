@@ -5,6 +5,9 @@ CPU: Intel i5-10400 (with UHD630)
 Motherboard: ASRock Z490m-ITX/ax
 GPU: AMD RX 580 8GB
 WiFi: BCM94352Z
+SSD: Sabrent RocketQ NVMe
+
+OpenCore 0.6.0
 
 What Works - Software:
 - Metal (fully)
