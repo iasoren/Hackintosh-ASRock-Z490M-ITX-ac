@@ -7,15 +7,16 @@ GPU: AMD RX 580 8GB
 WiFi: BCM94352Z
 SSD: Sabrent RocketQ NVMe
 
-OpenCore 0.6.0
+OpenCore 0.6.5
 
 What Works - Software:
 - Metal (fully)
 - iServices (Facetime, iMessage, Apple Store, etc)
 - Sleep/Wake (mostly)
-- DRM
+- DRM (Broken in Big Sur)
 - Bootpicker (verbose off)
 - Handoff/Continuity/SideCar
+- Big Sur (11.1)
 
 What Works - Hardware:
 - Ethernet (intel 1219v)
